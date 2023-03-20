@@ -7,7 +7,7 @@ Note that ```conda``` is a ***python package***, not a binrary command. So to ma
 * ```Anaconda installer = Python + package conda + meta package anaconda```<br/>
 And hence Anaconda installer = Miniconda installer + conda install anaconda
 
-## 2. Cheatsheet
+## 2. Commands
   1. Create an environment<br/>
   ```conda create --name <env_name> python=3.9``` (or whatever Python or R version you need)
   2. List all available envs<br/>
