@@ -14,3 +14,12 @@
   * [Background](./docker.md#1-background)
   * [Commands](./docker.md#2-commands)
   * [Docker Compose](./docker.md#3-docker-compose)
+
+### [Git](./git.md)
+  * [Background](./git.md#1-background)
+  * [Commands](./git.md#2-commands)
+  
+### [SSH](./ssh.md)  
+  * [SSH](./ssh.md#1-ssh)
+  * [SFTP](./ssh.md#2-sftp)
+  * [SCP](./ssh.md#3-scp)
